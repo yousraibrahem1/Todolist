@@ -4,7 +4,7 @@ import TodoList from "./TodoList";
 const Todo = () => {
     return (
         <div className="todo">
-          <li className="todo-item"> heey </li>
+          <li className="todo-item"> hello todo list </li>
           <button className="complete-btn">
             <i className="fas fa-check"></i>
           </button>

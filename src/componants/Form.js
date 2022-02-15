@@ -27,6 +27,7 @@ const Form = ({ setInputText, todo, setTodo, inputText }) => {
           <option value="uncompleted">Uncompleted</option>
         </select>
       </div>
+      <div className="yousra " type='text'> </div>
     </form>
   );
 };
